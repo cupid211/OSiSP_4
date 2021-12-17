@@ -1,0 +1,11 @@
+﻿  Handler.cpp
+  main.cpp
+C:\Users\PK\Downloads\OSiSP_4-master\OSiSP_4-master\Thread\Thread\main.cpp(57,81): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Merger.cpp
+C:\Users\PK\Downloads\OSiSP_4-master\OSiSP_4-master\Thread\Thread\Merger.cpp(20,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\PK\Downloads\OSiSP_4-master\OSiSP_4-master\Thread\Thread\Merger.cpp(21,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Sorter.cpp
+C:\Users\PK\Downloads\OSiSP_4-master\OSiSP_4-master\Thread\Thread\Sorter.cpp(8,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  TaskQueue.cpp
+  Создание кода...
+  Thread.vcxproj -> C:\Users\PK\Downloads\OSiSP_4-master\OSiSP_4-master\Thread\x64\Debug\Thread.exe
